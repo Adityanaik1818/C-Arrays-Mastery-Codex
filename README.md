@@ -1,36 +1,37 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM CRIMSON-FORGE HERO SECTION: ABSOLUTE VOID & PLASMA CRIMSON -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF003C&height=380&section=header&text=C%20%20❖%20%20A%20R%20R%20A%20Y%20S&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20SYSTEMS%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM TESSERACT-FORGE HERO SECTION: ONYX VOID & ELECTRIC INDIGO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7000FF&height=380&section=header&text=C%20%20❖%20%20A%20R%20R%20A%20Y%20S&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20SYSTEMS%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (RAJDHANI FONT) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Systems+Protocols;►+Master+High-Probability+C+Array+Programs;►+Dominate+Pointers,+Memory,+%26+Multi-Dimensions;►+Compile.+Execute.+Secure+Your+Placement.&center=true&width=800&height=70&color=FF003C&vCenter=true&size=24&font=Rajdhani&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (SPACE MONO FONT) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Systems+Protocols;►+Master+High-Probability+C+Array+Programs;►+Dominate+Pointers,+Memory,+%26+Multi-Dimensions;►+Compile.+Execute.+Secure+Your+Placement.&center=true&width=800&height=70&color=7000FF&vCenter=true&size=22&font=Space+Mono&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-000000?style=for-the-badge&logo=github&logoColor=FF003C" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-Core_Array_Architecture-000000?style=for-the-badge&logo=c&logoColor=FF003C" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-000000?style=for-the-badge&logo=target&logoColor=FF003C" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FF003C?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-000000?style=for-the-badge&logo=github&logoColor=7000FF" alt="Author">
+  <img src="https://img.shields.io/badge/COMPILER-GCC_Standard-000000?style=for-the-badge&logo=gnu&logoColor=7000FF" alt="Compiler">
+  <img src="https://img.shields.io/badge/PAYLOAD-Core_Array_Architecture-000000?style=for-the-badge&logo=c&logoColor=7000FF" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-000000?style=for-the-badge&logo=target&logoColor=7000FF" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-7000FF?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
 </p>
 
 <br>
 
 <a href="./C%20arrays%20qestions_answers%20with%20explanation.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF003C" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=7000FF" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> 🩸 **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of C programming array questions designed to stress-test your proximity to the metal. From multi-dimensional pointer arithmetic[cite: 3, 5] to precise memory address manipulation and preprocessor macro constraints[cite: 6, 24], this payload guarantees absolute readiness for elite engineering placements.*
+> 🔮 **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of C programming array questions designed to stress-test your proximity to the metal. From multi-dimensional pointer arithmetic[cite: 3, 5] to precise memory address manipulation and preprocessor macro constraints[cite: 6, 24], this payload guarantees absolute readiness for elite engineering placements.*
 
 </div>
 
 <br>
 
-<!-- SLEEK PLASMA CRIMSON TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:000000&height=2" width="100%"/>
+<!-- SLEEK ELECTRIC INDIGO TO VOID DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000FF,100:000000&height=2" width="100%"/>
 
 <br>
 
@@ -43,9 +44,9 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/memory-slot.png" width="24"/> <kbd>MODULE // 01</kbd> POINTER ARITHMETIC & ADDRESS NAVIGATION</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/7000FF/memory-slot.png" width="24"/> <kbd>MODULE // 01</kbd> POINTER ARITHMETIC & ADDRESS NAVIGATION</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="20">
+  <table width="100%" cellpadding="22">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -65,9 +66,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/layers.png" width="24"/> <kbd>MODULE // 02</kbd> MULTI-DIMENSIONAL MATRICES</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/7000FF/layers.png" width="24"/> <kbd>MODULE // 02</kbd> MULTI-DIMENSIONAL MATRICES</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="20">
+  <table width="100%" cellpadding="22">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -87,9 +88,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/console.png" width="24"/> <kbd>MODULE // 03</kbd> STRING MANIPULATION & ESCAPE SEQUENCES</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/7000FF/console.png" width="24"/> <kbd>MODULE // 03</kbd> STRING MANIPULATION & ESCAPE SEQUENCES</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="20">
+  <table width="100%" cellpadding="22">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -109,9 +110,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FF003C/binary-file.png" width="24"/> <kbd>MODULE // 04</kbd> EDGE CASES & COMPILER BEHAVIOR</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/7000FF/binary-file.png" width="24"/> <kbd>MODULE // 04</kbd> EDGE CASES & COMPILER BEHAVIOR</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="20">
+  <table width="100%" cellpadding="22">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -134,82 +135,4 @@
 
 <br>
 
-<!-- SLEEK VOID TO PLASMA CRIMSON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF003C&height=2" width="100%"/>
-
-<br>
-
-<h2 align="center">✦ 𝗧 𝗔 𝗥 Ｇ 𝗘 𝗧 &nbsp; 𝗩 𝗘 𝗖 𝗧 𝗢 𝗥 𝗦 ✦</h2>
-
-<p align="center"><i>This codex is mathematically optimized to dominate the technical rounds for the following roles:</i></p>
-
-<br>
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-000000?style=for-the-badge&logoColor=FF003C" /> 
-<img src="https://img.shields.io/badge/ROLE-Backend_Developer-000000?style=for-the-badge&logoColor=FF003C" /> 
-<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-000000?style=for-the-badge&logoColor=FF003C" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-000000?style=for-the-badge&logoColor=FF003C" />
-<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-000000?style=for-the-badge&logoColor=FF003C" />
-
-</div>
-
-<br>
-
-<!-- SLEEK PLASMA CRIMSON TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,100:000000&height=2" width="100%"/>
-
-<br>
-
-<h2 align="center">✦ 𝗘 𝗫 𝗘 Ｃ Ｕ 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
-
-<p align="center"><i>Transform theoretical knowledge into instinctive programming reflexes using the 4-stage cognitive pipeline.</i></p>
-
-<br>
-
-<table align="center" width="100%" cellpadding="20">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/visible--v1.png" width="60"/><br>
-      <b>01. INGEST</b><br>
-      <code>Parse Architecture</code>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/code.png" width="60"/><br>
-      <b>02. COMPILE</b><br>
-      <code>Identify Constraints</code>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/bug.png" width="60"/><br>
-      <b>03. DEBUG</b><br>
-      <code>Dry-Run Mentally</code>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/FF003C/checked.png" width="60"/><br>
-      <b>04. EXECUTE</b><br>
-      <code>Output Precision</code>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-> **💡 Tactical Edge:** *Interviewers are searching for systemic understanding, not just syntax memorization. When queried on concepts like `(&arr + 1)` versus `(arr + 1)`[cite: 1], immediately map your answer back to the actual byte-level size of the block being incremented. Proving you understand memory segmentation is how you prove your seniority.*
-
-<br>
-
----
-
-<!-- Executive Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,100:000000&height=120&section=footer" width="100%" />
-  <br>
-  <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
-  <br><br>
-  <b>Master the Logic. Own the Hardware.</b><br>
-</div>
+<!-- SLEEK
